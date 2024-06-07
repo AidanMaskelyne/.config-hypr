@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sleep 2
+
 swaylock \
 	--hide-keyboard-layout \
 	--indicator-radius 100 \
